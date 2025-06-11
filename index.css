@@ -123,6 +123,7 @@ input[type="radio"]{
 /* modal */
 
 .meme-modal{
+   
     display: none; /*flex when displayed*/
     position: fixed;
     margin: auto;
