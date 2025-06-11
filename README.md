@@ -3,9 +3,14 @@
 
 ## Opeteltuja asioita:
 
--
--
--
+- For of -looppi
+- import / export (erillinen data.js)
+- radio & checkbox inputs & values
+- query selector ()
+- getElementsByClassName
+- classList.Remove (&ad)
+- .includes() method
+- .filter() method
 
 
 # Getting Started
