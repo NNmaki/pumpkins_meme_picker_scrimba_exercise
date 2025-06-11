@@ -1,3 +1,13 @@
+
+# Ohjeita Nikolla omaksi muistiinpanoksi:
+
+## Opeteltuja asioita:
+
+-
+-
+-
+
+
 # Getting Started
 Install the dependencies and run the project
 ```
