@@ -1,7 +1,6 @@
 
-# Ohjeita Nikolla omaksi muistiinpanoksi:
 
-## Opeteltuja asioita:
+## Opeteltuja asioita, notes to MYSELF:
 
 - For of -looppi
 - import / export (erillinen data.js)
